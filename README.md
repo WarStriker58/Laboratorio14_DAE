@@ -25,3 +25,23 @@
 ![C4](imgs/c4_salas_lab14.jpg)
 
 ---
+
+## Integrante 2: Yefry Ivan Calderon Gonzales
+
+### 2. Creación de rutas
+
+![C2](imgs/c2_calderon_lab14.png)
+
+---
+
+### 3. Creación de layout
+
+![C3](imgs/c3_calderon_lab14.png)
+
+---
+
+### 4. Homepage
+
+![C4](imgs/c4_calderon_lab14.png)
+
+---
