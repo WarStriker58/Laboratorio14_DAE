@@ -1,1 +1,20 @@
 @import "tailwindcss";
+
+@theme {
+  /* Vinculamos las variables personalizadas al sistema de temas de Tailwind v4 */
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+}
+
+:root {
+  /* Definimos el fondo del botón en un color Rojo vibrante (#ef4444) */
+  --primary: #ef4444;
+  
+  /* Definimos que el texto que va dentro del botón sea Blanco (#ffffff) */
+  --primary-foreground: #ffffff;
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
